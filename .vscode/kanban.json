@@ -1,0 +1,45 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [],
+            "id": "cljr4x6u3000a4064pjit8fjp",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Add voice note capability",
+                    "id": "cljr4y3lz000g4064erjzlf7m"
+                },
+                {
+                    "text": "add chat functionality so a person can reply to the message",
+                    "id": "cljr4xolf000f4064hdhuy0tu"
+                },
+                {
+                    "text": "Add game functionality so the person has to catch the message",
+                    "id": "cljr4x6u3000b4064mg7wcojp"
+                }
+            ],
+            "id": "cljr4x6u3000c4064jswddpim",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "cljr4x6u3000d4064aaqatuxn",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "cljr4x6u3000e4064fobq9yzp",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1688647278198
+}
